@@ -49,7 +49,7 @@ order by sang4.density desc
 ### Results
 Output the top 3 states with the highest population density (population divided by area) among states with a literacy rate greater than 80% and 
 a sex ratio greater than 900. Then, display the information on state, population, area, population density, literacy rate, and sex ratio.
-
+😄
 
 
 
